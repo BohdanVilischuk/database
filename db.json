@@ -1,4 +1,4 @@
- profiles = [{
+"profiles" = [{
   "avatar": "http://dummyimage.com/136x238.png/ff4444/ffffff",
   "first_name": "Cyrille",
   "last_name": "McBain",
