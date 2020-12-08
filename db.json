@@ -1,10 +1,24 @@
-"profiles" = [{
-  "avatar": "http://dummyimage.com/136x238.png/ff4444/ffffff",
-  "first_name": "Cyrille",
-  "last_name": "McBain",
-  "title": "Structural Engineer",
-  "year": "6/15/2020",
-  "phone": "+374 488 927 6355",
-  "email": "cmcbain0@scribd.com",
-  "biography": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
-}]
+{
+   "profiles":{
+      "profile0":{
+         "avatar":"http://dummyimage.com/136x238.png/ff4444/ffffff",
+         "first_name":"Cyrille",
+         "last_name":"McBain",
+         "title":"Structural Engineer",
+         "year":"6/15/2020",
+         "phone":"+374 488 927 6355",
+         "email":"cmcbain0@scribd.com",
+         "biography":"In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
+      },
+      "profile1":{
+         "avatar":"http://dummyimage.com/136x238.png/ff4444/ffffff",
+         "first_name":"Wyrille",
+         "last_name":"DcBain",
+         "title":"Astructural Iineer",
+         "year":"6/15/2010",
+         "phone":"+574 488 927 6355",
+         "email":"madbain0@scribd.com",
+         "biography":"Platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
+      }
+   }
+}
